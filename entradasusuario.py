@@ -23,3 +23,5 @@ print("Resta:", resta)
 print("Multiplicación:", multiplicacion)
 print("División:", division)
 
+# MOSTRAR AUTOR
+print("HOla soy Arcoterios y esto lo hice el 23 de febrero 2025")
