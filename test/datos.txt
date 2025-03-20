@@ -1,0 +1,4 @@
+Hola, mundo.
+ESte es un archivo de texto.
+Python es una barbaridad
+Atte. Arcoterios
